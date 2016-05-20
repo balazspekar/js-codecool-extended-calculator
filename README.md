@@ -1,2 +1,1 @@
-# js-codecool-extended-calculator
-Integrating the Numbers API into a CSS/JS calculator with AJAX
+# HTML5, CSS3 and JavaScript calculator with Numbers API
